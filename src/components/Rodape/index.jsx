@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-import estilos from "./Rodape.module.css";
+import estilos from "../Rodape/rodape.module.css";
 import Logo from "../../../public/logo.png";
 
 export default function Rodape() {

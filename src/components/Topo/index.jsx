@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 
-import estilos from './Topo.module.css';
+import estilos from '../Topo/topo.module.css';
 import logo from "../../../public/logo.png";
 
 export default function Topo() {
